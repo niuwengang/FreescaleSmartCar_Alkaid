@@ -1,6 +1,6 @@
 # FreescaleSmartCar_Alkaid
 
-<img src="pic2.jpeg" align="left"   />    
+<img src="pic2.jpeg"    />    
 
 ## 1. 技术文档
 ## 2. 比赛视频
