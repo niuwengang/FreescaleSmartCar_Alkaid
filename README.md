@@ -1,6 +1,12 @@
 # FreescaleSmartCar_Alkaid
 
-<img src="pic2.jpeg"  align="left" /> <img src="pic1.jpeg"   align="left"   width = "300" height = "280"   /> 
+<img src="pic2.jpeg"   /> <img src="pic1.jpeg"     width = "300" height = "280"   />  
+
+
+
+
+
+
 
 
 
