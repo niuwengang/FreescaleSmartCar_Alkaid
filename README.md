@@ -6,7 +6,7 @@
 ## 2. 比赛视频
 [留念视频](https://www.bilibili.com/video/BV1qV411e72Q/?spm_id_from=333.999.0.0)
 
-## 3. 比赛队友
+## 3. 比赛队员
 
 @jxwang
 
